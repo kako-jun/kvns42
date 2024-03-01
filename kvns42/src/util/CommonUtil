@@ -1,0 +1,8 @@
+class CommonUtil {
+  // class methods
+  static hoge() {
+    return "";
+  }
+}
+
+export default CommonUtil;
